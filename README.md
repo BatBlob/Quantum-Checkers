@@ -1,6 +1,6 @@
-## Quantum-Checkers
+# Quantum-Checkers
 
-# Project Description
+## Project Description
 
 Strategy games such as chess, Go and Tic-tac-toe have proved to be an excellent medium of introducing quantum phenomenons to the general public in a fun way. These games introduce a quantum twist into these age old games and allow the players to experiment with quantum phenomenons such as superposition, entanglement etc. In this project we aim to bring this fun twist to the game of Checkers.
 
